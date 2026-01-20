@@ -8,15 +8,12 @@ I'm an AI and Backend Engineer passionate about data science, algorithms, and bu
 
 ---
 
-## 🌆 Contribution Skyline
+## ⚡ Activity & Streak
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://skyline.github.com/yamato1936/2025">
-    <img src="https://github-readme-skyline.vercel.app/api/yamato1936/2025" width="48%" alt="2025 Skyline" />
-  </a>
-  <a href="https://skyline.github.com/yamato1936/2026">
-    <img src="https://github-readme-skyline.vercel.app/api/yamato1936/2026" width="48%" alt="2026 Skyline" />
-  </a>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamato1936&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamato1936&theme=tokyonight&hide_border=true&area=true" height="150" alt="Activity Graph" />
 </div>
 
 ---
@@ -29,19 +26,17 @@ I'm an AI and Backend Engineer passionate about data science, algorithms, and bu
 
 ---
 
-## 📈 Stats & Activities
+## 📈 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yamato1936&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=yamato1936&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamato1936&layout=compact&theme=tokyonight&langs_count=6" height="170" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamato1936&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
-<br>
+---
 
-### 🧠 LeetCode
+## 🧠 LeetCode
 
 <a href="https://leetcode.com/toyamagu">
   <img src="https://leetcard.jacoblin.cool/toyamagu?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
