@@ -44,5 +44,5 @@ I'm an AI and Backend Engineer passionate about data science, algorithms, and bu
 ### 🧠 LeetCode
 
 <a href="https://leetcode.com/toyamagu">
-  <img src="https://leetcard.jacoblin.cool/yamato1936?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/toyamagu?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </a>
