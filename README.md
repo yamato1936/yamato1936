@@ -22,16 +22,7 @@ I'm an AI and Backend Engineer passionate about data science, algorithms, and bu
   <img src="https://skillicons.dev/icons?i=py,c,cpp,go,docker,pytorch,sklearn,tensorflow,git,linux,wandb&theme=dark&perline=15" alt="Tech Stack Icons" />
 </a>
 
----
 
-## 📈 GitHub Stats
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamato1936&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamato1936&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" height="160" alt="Top Languages" />
-</div>
-
----
 
 ## 🧠 LeetCode
 
