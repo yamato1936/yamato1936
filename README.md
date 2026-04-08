@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI+Engineer;Data+Scientist;ML+Engineer;42+Student" alt="Typing SVG" />
 </a>
 
-I'm an AI and Backend Engineer passionate about data science, algorithms, and building cool things. Currently studying at **42**.
+I'm an AI and ML Engineer passionate about data science, algorithms, and building cool things. Currently studying at **42**.
 
 <img src="https://img.shields.io/badge/42-Student-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Student Badge" />
 
